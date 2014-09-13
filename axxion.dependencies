@@ -2,6 +2,7 @@
   {
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common"
+    
   },
   {
     "repository": "android_kernel_samsung_jf",
